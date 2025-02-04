@@ -16,21 +16,6 @@ This **Movie Recommendation System** is built using **collaborative filtering**,
 - **Scikit-Learn** (Data Processing)
 - **Collaborative Filtering** (Pearson correlation for recommendations)
 
-## 📂 Installation & Setup
-1. **Clone this repository**:
-   ```sh
-   git clone https://github.com/yourusername/movie-recommendation-system.git
-   cd movie-recommendation-system
-   ```
-2. **Install dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook**:
-   ```sh
-   jupyter notebook Movie_Recommendation_System.ipynb
-   ```
-
 ## 🎥 Usage
 1. **Load the dataset**: The dataset contains movie ratings and titles.
 2. **Analyze Ratings**:
